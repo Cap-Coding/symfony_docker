@@ -1,0 +1,4 @@
+order_show:
+  path: /api/v1/orders/{id}
+  controller: App\Controller\OrderController::showAction
+  methods: [GET]
