@@ -1,6 +1,6 @@
 # Create Symfony 5 project with Docker and Postgres
 
-Watch full tutorial [here](https://youtu.be/69wjRPQ0A_U)
+Watch full tutorial [here](https://youtu.be/4UrPI6Y3BWA)
 
 # Other video tutorials
 
